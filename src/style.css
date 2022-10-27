@@ -23,6 +23,9 @@ a{
     color: hsl(233, 8%, 62%);
     
 }
+.brown{
+    color: hsl(233, 8%, 62%);
+}
 .links{
     display: flex;
     flex-direction: row;
