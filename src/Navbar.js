@@ -36,19 +36,19 @@ export default function Navbar(){
                 <img src={logo} alt=""/>
                 <div className='links'>
                     <div>
-                        <a href="#">Home</a>
+                        <a className='brown' href="#">Home</a>
                     </div>
                     <div>
-                        <a href="#">About</a>
+                        <a className='brown' href="#">About</a>
                     </div>
                     <div>
-                        <a href="#">Contact</a>
+                        <a className='brown' href="#">Contact</a>
                     </div>
                     <div>
-                        <a href="#">Blog</a>
+                        <a className='brown' href="#">Blog</a>
                     </div>
                     <div>
-                        <a href="#">Careers</a>
+                        <a className='brown' href="#">Careers</a>
                     </div>
                 </div>
                 <img src={menus} onClick={state} alt="" className='menu'/>
